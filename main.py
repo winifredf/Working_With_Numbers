@@ -1,2 +1,2 @@
 my_num = -8
-print(min(8, 2))
+print(round(8.926))
