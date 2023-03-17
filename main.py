@@ -1,2 +1,2 @@
 my_num = -8
-print(pow(8, 2))
+print(max(8, 2))
