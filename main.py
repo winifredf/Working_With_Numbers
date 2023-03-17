@@ -1,1 +1,2 @@
-print(8 % 2.5)
+my_num = 7
+print(my_num)
